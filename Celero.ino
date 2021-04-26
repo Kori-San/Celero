@@ -1,4 +1,4 @@
-// Celero by Kori-San //
+// Celero v1.0 by Kori-San //
 
 //Libraries
 #if defined(ENERGIA)
