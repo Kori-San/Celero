@@ -1,5 +1,6 @@
 # Celero
 Celero, an Accelerometer based game for a MSP-430F5529LP used with a Educational BoosterPack MKII, developped with C-Language on Energia.
+Here is a Trailer where you can see the game : https://youtu.be/4avW_mNNpvk.
 
 ## Celero is a game based with the Accelerometer available on the Educational BoosterPack MKII fused with a MSP-430F5529LP.
 All the pins used are put on variables so if you're using another pack and / or another MCU then you could just remplace the pins to make it works.
