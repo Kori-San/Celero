@@ -16,4 +16,4 @@ Each time you hit the screen limit or an obstacle you come back to the Top Left 
 Be carefull because the position of the accelerometer is saved when you die, so you will a hard time going in the green zone each time you die.
 After comming in the Victory zone you will have a Game Over screen who will display the number of deaths and the time of the current gaming session
 
-### If you find any bug or if you have ideas to make the script better don't mind writting in the "Issues" section :)
+### If you find any bug or if you have ideas to make the game better don't mind writting in the "Issues" section :)
